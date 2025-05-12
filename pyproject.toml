@@ -1,0 +1,8 @@
+[project]
+name = "brne-static"
+version = "0.1.0"
+dependencies = [
+  "numpy",
+  "matplotlib",
+  "torch",
+]
